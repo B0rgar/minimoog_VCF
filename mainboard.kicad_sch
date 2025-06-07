@@ -13424,7 +13424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "used to be 150k"
 			(at 71.12 210.82 0)
 			(effects
 				(font

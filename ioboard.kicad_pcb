@@ -3997,7 +3997,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "150k"
 			(at -1.6256 0.4826 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -5195,7 +5195,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "150k"
 			(at -1.81 0.5 -90)
 			(unlocked yes)
 			(layer "F.SilkS")

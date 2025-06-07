@@ -6124,7 +6124,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "468cdb42-0701-4adc-aa96-db02ea724fb7")
@@ -6136,7 +6136,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0d00c87d-1530-480c-ab93-b073a87b0840")
@@ -6147,8 +6147,8 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 -90)
+		(property "Description" "150k"
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "646f2fc4-6600-4ac4-a2c5-a8bee1ca2186")
